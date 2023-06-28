@@ -1,0 +1,22 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = air
+End
+
+Body 2
+  Name = sphere
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = topbot
+End
+
+Boundary Condition 2
+  Name = sides
+End
+
+Boundary Condition 3
+  Name = bnry5
+End
+

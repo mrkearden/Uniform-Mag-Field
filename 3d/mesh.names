@@ -1,0 +1,7 @@
+! ----- names for bodies -----
+$ air = 1
+$ sphere = 2
+! ----- names for boundaries -----
+$ topbot = 1
+$ sides = 2
+$ bnry5 = 3
